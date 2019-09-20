@@ -1,5 +1,5 @@
 # bluehead_risk_sensitivity
-Data and code associated with Bogdan et al. paper in Ethology (currently in review)
+Data and code associated with Bogdan et al. paper, currently in review at PeerJ.
 
 The included R scripts execute all of the analyses reported in the paper, and produce all of the figures.
 
